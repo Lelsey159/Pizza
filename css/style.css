@@ -1,0 +1,153 @@
+@font-face {
+    src: url(../font/LobsterTwo-BoldItalic.ttf);
+    font-family: lobster;
+}
+
+.home {
+    background-image: url(https://image.freepik.com/free-photo/top-view-sweet-cookies-with-orange-jam-white-surface_140725-115494.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a:hover {
+    background-color: green;
+}
+
+.topnav {
+    background-color: black;
+    padding: 20px;
+    color: maroon;
+
+}
+
+a {
+    padding: 0px 40px;
+    font-size: 30px;
+    color: maroon;
+
+    font-family: lobster;
+}
+
+h1 {
+    text-align: center;
+    color: maroon;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    color: maroon;
+    font-size: 40px;
+}
+
+h3 {
+    text-align: center;
+    color: maroon;
+    font-size: 40px;
+
+}
+
+.message {
+    margin-left: 50px;
+    color: maroon;
+    font-size: 40px;
+    font-family: cursive;
+    margin-top: 80px ;
+    
+}
+
+
+#lesl {
+    padding-top: 3%;
+}
+
+.menu {
+    background-color: ivory;
+   
+}
+
+.orders {
+    background-color: #ffffff;
+    padding: 0px 250px 0px 250px;
+} 
+
+.contacts {
+    padding: 50px;
+}
+
+.footer {
+    background-color: rgb(204, 196, 195);
+}
+
+
+    footer{
+        width:100%;
+        background-color:#121619;
+        color:#fff;
+        }
+        
+        .top_header{
+        padding:2rem;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        position:relative;
+        }
+        
+        .top_header section{
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        width:100%;
+        }
+        
+        .top_header span{
+        padding:0 1rem;
+        }
+        
+        .top_header .fa{
+        color:#ffbe00;
+        font-size:35px;
+        }
+        
+        footer .border-shape {
+        width: 40%;
+        }
+        
+        footer .border-shape::before {
+        width: 100%;
+        left:120px;
+        }
+        
+        footer .border-shape::after {
+        width: 100%;
+        right:120px;
+        }
+        
+        footer .bottom_content section{
+        padding:1.5rem 2rem;
+        display:flex;
+        align-items:center;
+        justify-content:Center;
+        }
+        
+        .bottom_content a{
+        margin:0 20px;
+        color:rgba(255,255,255,0.7);
+        transition:0.5s;
+        }
+        
+        .bottom_content a:hover{
+        color:rgba(255,255,255,1);
+        }
+        
+        
+        .copyright{
+        padding:0.8em 0;
+        background-color:#1e1e1e;
+        text-align:center;
+        color:rgba(255,255,255,0.7);
+        font-size:12px;
+        }
+        
